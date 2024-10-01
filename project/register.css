@@ -1,0 +1,42 @@
+.fst_div{
+    height: 650px;
+    border: 1px solid black;
+    background-color: black;
+    color:#fff;
+}
+.Sec_div{
+    height: 650px;
+    border: 1px solid black;
+    background-color: rgb(37, 37, 37);
+}
+.login_div{
+    padding: 10%;
+}
+.Inputs{
+    width: 80%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    padding: 1%;
+}
+.btn_1{
+   width: 80%;
+    height: 40px;
+    border-radius: 10px;
+}
+.btn_1 :hover{
+    color: white;
+    background-color: black;
+}
+.Reg_div{
+    padding: 30% 10% 15% 10%;
+    color: white;
+}
+.cycle{
+    height: 30%;
+    margin: 0% 0% 0% 20%;
+}
+.hover .hover{
+    color: white;
+    background-color: black;
+}

@@ -1,0 +1,161 @@
+.r1
+{
+    background-color: black;
+    color: white;
+    height:50px;
+}
+.r1 img
+{
+    margin-top:5px;
+    left:5px;
+}
+.col1
+{
+  color:white;  
+}
+#p2
+{
+    margin-top: 5px;
+}
+.r2
+{
+    background-color: white;
+    border:2px solid black;
+    height:60px;
+}
+
+/*Slider starts here*/
+*{box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+/* The dots/bullets/indicators */
+.dot 
+{
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active 
+{
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade 
+{
+  animation-name: fade;
+  animation-duration:1.5s;
+}
+
+@keyframes fade 
+{
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+/*Slider ends here*/
+
+.h3
+{
+    color: red;
+}
+.r6
+{
+    background-color: black;
+    color:white;
+}
+.r7
+{
+    transform:translateY(10px);
+    border:5px dotted black;
+}
+.r7 .button1
+{
+    border:5px double black;
+}
+
+.r7 .button1:hover
+{
+    transform: scale(1.5);
+}
+.button1:hover
+{
+    color:red;
+    transform: scale(1.1);
+}
+.button:hover
+{
+    color:red;
+    transform: scale(1.5);
+}
+.r8
+{
+    transform:translateY(10px);
+    background-color: black;
+    height: auto;
+}
+.r9 h4
+{
+    font-family: sans-serif ;
+    color:whitesmoke;
+    text-decoration: underline white 2px; 
+    transform:translateY(10px);
+}
+.r9 p
+{
+    color:grey;
+    transform:translateY(20px);
+}
+.button
+{
+    border: none;
+    color:grey;
+    background-color: black;
+    text-decoration: none;
+}
+.button1
+{
+    border: none;
+    text-decoration: none;
+    background-color: white;
+}
+.line
+{
+  border: 1px solid white;
+}
+/*About us page css start here*/
+.r3 h
+{
+    opacity: 0.5;
+    font-family:cursive;
+}
+.r3 p
+{
+    color: grey;
+    font-family: sans-serif;
+}
+.colo
+{
+    background-image: url("background.jpg");
+    opacity: 0.7;
+}
+/*About us page css end here*/
+
+/*Products css start here*/
+.col2
+{
+    color:red;
+    background-color: black;
+}
