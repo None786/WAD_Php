@@ -5,3 +5,4 @@
 
 **product_video:** 'https://www.youtube-nocookie.com/embed/lZ11veOuTa8?si=HgU69DnTLG2IOPR5'
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lZ11veOuTa8/0.jpg)](https://www.youtube.com/watch?v=lZ11veOuTa8)
